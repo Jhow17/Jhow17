@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jonathan Henrique da Silva and I'm a Software Engienner student, from Brasil</p>
+<p align="left">My name is Jonathan Henrique da Silva and I'm a Software Enginneering Student, from Brasil</p>
 
 ###
 
