@@ -45,13 +45,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.gifer.com/OKUa.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img height="200" src="https://i.pinimg.com/originals/4f/76/43/4f7643a2b0f6e6ab2c9f5fd0de658e2c.gif"  />
 </div>
 
 ###
