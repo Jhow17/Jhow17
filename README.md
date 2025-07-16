@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jonathan Henrique da Silva and I'm a Software Enginneering Student, from São Paulo Brasil. I am a curious person and I always want to learn more about new things like web automation and algorithms and more.</p>
+<p align="left">My name is Jonathan Henrique da Silva and I'm a Software Enginneering Student, from São Paulo Brasil I am a curious person and I always want to learn more about new things like web automation and algorithms and more.</p>
 
 ###
 
@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
