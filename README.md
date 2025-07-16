@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jonathan Henrique da Silva and I'm a Software Enginneering Student, from Brasil</p>
+<p align="left">My name is Jonathan Henrique da Silva and I'm a Software Enginneering Student, from São Paulo Brasil. I am a curious person and I always want to learn more about new things like web automation and algorithms and more.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ... <br>📚 I'm currently learning ... 		Computational Thinking with Python, Front-end Design, Web Development and otherthings<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Software Enginneering <br>🎯 Goals: To become a full-stack developer</p>
 
 ###
 
@@ -21,26 +21,21 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
 
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/4f/76/43/4f7643a2b0f6e6ab2c9f5fd0de658e2c.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhow17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
